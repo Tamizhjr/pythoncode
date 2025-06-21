@@ -1,0 +1,6 @@
+python fundamental 
+datatype 
+variable
+string
+list
+fuunction
