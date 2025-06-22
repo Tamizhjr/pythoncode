@@ -1,5 +1,5 @@
-number = int(input("enter the number:"))
-if number % 2==0:
-  print("the number is even")
+verify_number = int(input("enter the number:"))
+if verfy_number % 2==0:
+  print(verfy_number,"is the even number")
 else:
-  print("the number is odd")
+  print(verfy_number,"is the odd number")
