@@ -6,3 +6,12 @@ def cel(c):
 
 celcius = int (input("enter the celcius:"))
 print(cel(celcius),"fahrenheit")
+
+
+#converting celcius to fahrenheit using simple python variables
+
+celcius1 = int (input("enter the celcius number:"))
+
+fahrenheit1 = 1.8*celcius1+32
+
+print(fahrenheit1,"fahrenheit")
