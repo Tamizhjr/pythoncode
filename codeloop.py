@@ -12,3 +12,4 @@ num = int(input("enter the number:"))
 for i in range(num):
     b.append("enter what are the number do you want:")
 print(b)
+
